@@ -34,6 +34,11 @@
     "iso": "ben",
     "name": "Bengali"
   },
+  "brazilian-portuguese": {
+    "id": "brazilian-portuguese",
+    "iso": "pob",
+    "name": "Brazilian Portuguese"
+  },
   "bosnian": {
     "id": "bosnian",
     "iso": "bos",
